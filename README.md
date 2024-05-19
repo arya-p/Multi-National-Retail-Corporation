@@ -4,6 +4,10 @@
 This project uses Tableau to visualise data from a hypothetical Multi-National Retail Company. The dashboard is interactive and will help stakeholders understand specific areas.
 
 
+# Dashboard Link
+https://public.tableau.com/views/Project1_GlobalSuperstore/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+
 # Dashboard Screenshot
 <img width="1462" alt="Screenshot 2024-05-19 at 2 29 24 PM" src="https://github.com/arya-p/Multi-National-Retail-Corporation/assets/63189431/a18f3801-b27c-427e-b3de-04b602344a0f">
 
