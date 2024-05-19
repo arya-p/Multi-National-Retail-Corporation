@@ -5,7 +5,7 @@ This project uses Tableau to visualise data from a hypothetical Multi-National R
 
 
 # Dashboard Screenshot
-<img width="1455" alt="Screenshot 2024-05-19 at 2 04 01 PM" src="https://github.com/arya-p/Multi-National-Retail-Corporation/assets/63189431/6059d2fd-4d65-4c8c-a174-a5d0e213bd36">
+<img width="1462" alt="Screenshot 2024-05-19 at 2 29 24 PM" src="https://github.com/arya-p/Multi-National-Retail-Corporation/assets/63189431/a18f3801-b27c-427e-b3de-04b602344a0f">
 
 
 # Problem Statement
